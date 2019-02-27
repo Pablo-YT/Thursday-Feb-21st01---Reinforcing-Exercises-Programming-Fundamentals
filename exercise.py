@@ -17,3 +17,4 @@ print(draw_shape(my_var))
 my_var2 = {'rows': 3, 'cols':10, 'char': '0'}
 
 print(draw_shape(my_var2))
+#This assginment had the wrong date
